@@ -30,7 +30,7 @@ Before you begin, ensure you have:
 First, clone this repository to your local machine:
 
 ```shell
-git clone https://github.com/vittoriolaferla/olivevo
+git clone https://github.com/umbertocolangelo/MDP_olivevo
 ```
 ### Install Dependencies and run the application
 

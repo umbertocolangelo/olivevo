@@ -37,7 +37,7 @@ git clone https://github.com/umbertocolangelo/MDP_olivevo
 Navigate to the root of the project and run the following commands:
 
 ```shell
-cd olivevo
+cd MDP_olivevo
 flutter pub get
 flutter run
 ```
